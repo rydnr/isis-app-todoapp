@@ -10,7 +10,7 @@ While not quite a "kitchen-sink" example (there is, after all, just a single dom
 
 The app also integrates with many of the [Isis Addons](https://www.isisaddons.org), such as [security](https://github.com/isisaddons/isis-module-security), [command profiling](https://github.com/isisaddons/isis-module-command), [auditing](https://github.com/isisaddons/isis-module-audit), [event publishing](https://github.com/isisaddons/isis-module-publishing).  While the Isis Addons are not part of the Apache Software Foundation, they are all licensed under Apache License 2.0 and are maintained by the Apache Isis committers.
 
-Running this app is a good way to get familiar with the structure of a not-too-complex Apache Isis application.  However, to get started with your own application, we generally recommend that you use the [simple archetype](http://isis.apache.org/intro/getting-started/simpleapp-archetype.html).  This will generate a completely stripped back and minimal application for you to refactor and extend; you can then use this example todoapp to guide your own development.
+Running this app is a good way to get familiar with the structure of a not-too-complex Apache Isis application.  However, to get started with your own application, we generally recommend that you use the [simple archetype](http://isis.apache.org/guides/ugfun/ugfun.html#_ugfun_getting-started_simpleapp-archetype).  This will generate a completely stripped back and minimal application for you to refactor and extend; you can then use this example todoapp to guide your own development.
 
 
 ## Screenshots
